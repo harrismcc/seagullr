@@ -8,15 +8,15 @@
 </a>
 
 <a href="https://github.com/harrismcc/seagullr/issues">
-<img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
+<img src="https://img.shields.io/github/issues/harrismcc/seagullr.svg" alt="Issues">
 </a>
 
 <a href="https://github.com/harrismcc/seagullr/fork">
-<img src="https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg" alt="Forks">
+<img src="https://img.shields.io/github/forks/harrismcc/seagullr.svg" alt="Forks">
 </a>
 
 <a href="https://github.com/harrismcc/seagullr/stargazers">
-<img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
+<img src="https://img.shields.io/github/stars/harrismcc/seagullr.svg" alt="Stars">
 </a>
 
 </p>
